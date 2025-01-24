@@ -1,0 +1,8 @@
+scikit-learn==1.5.2
+pandas==2.2.2
+numpy==2.1.1
+matplotlib==3.9.2
+seaborn==0.13.2
+yellowbrick==1.5
+argparse==1.4.0
+plotly==5.24.1
