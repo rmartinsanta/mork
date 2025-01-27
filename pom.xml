@@ -55,7 +55,7 @@
         <msource.version>3.3.1</msource.version>
         <mjavadoc.version>3.11.1</mjavadoc.version>
         <mjar.version>3.4.2</mjar.version>
-        <graalvm.version>24.1.0</graalvm.version>
+        <graalvm.version>24.1.2</graalvm.version>
         <maspectj.version>1.15.0</maspectj.version>
         <aspectj.version>1.9.22.1</aspectj.version>
         <apachepoi.version>5.3.0</apachepoi.version>
